@@ -7,13 +7,13 @@ namespace SzorzoTabla
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        public void Form1_Load(object sender, EventArgs e)
         {
             for (int sor = 0; sor < 10; sor++)
             {
                 for (int oszlop = 0; oszlop < 10; oszlop++)
                 {
-                    Button button = new Button();
+                    SzinezõdõGomb button = new SzinezõdõGomb();
                     button.Width = 40;
                     button.Height = 40;
                     button.Left = oszlop * 40;
