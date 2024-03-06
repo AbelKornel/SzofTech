@@ -1,0 +1,16 @@
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\bin\Debug\net6.0-windows\zh_gyak.exe
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\bin\Debug\net6.0-windows\zh_gyak.deps.json
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\bin\Debug\net6.0-windows\zh_gyak.runtimeconfig.json
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\bin\Debug\net6.0-windows\zh_gyak.dll
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\bin\Debug\net6.0-windows\zh_gyak.pdb
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\zh_gyak.Form1.resources
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\zh_gyak.csproj.GenerateResource.cache
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\zh_gyak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\zh_gyak.AssemblyInfoInputs.cache
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\zh_gyak.AssemblyInfo.cs
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\zh_gyak.csproj.CoreCompileInputs.cache
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\zh_gyak.dll
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\refint\zh_gyak.dll
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\zh_gyak.pdb
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\zh_gyak.genruntimeconfig.cache
+C:\Users\Kornél\OneDrive - Corvinus University of Budapest\SzofTech\zh_gyak\zh_gyak\obj\Debug\net6.0-windows\ref\zh_gyak.dll
